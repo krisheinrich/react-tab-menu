@@ -1,0 +1,25 @@
+{
+  "name": "react-tab-menu",
+  "version": "1.0.0",
+  "description": "An easy to use React component implementing a menu with tabs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisheinrich/react-tab-menu.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "tabs",
+    "tab-menu"
+  ],
+  "author": "Kris Heinrich <krisheinrich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krisheinrich/react-tab-menu/issues"
+  },
+  "homepage": "https://github.com/krisheinrich/react-tab-menu#readme"
+}
